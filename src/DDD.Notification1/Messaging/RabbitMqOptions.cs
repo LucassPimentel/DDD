@@ -1,0 +1,16 @@
+﻿namespace DDD.ServiceOrder.Api.DDD.Notification1.Messaging;
+
+public sealed class RabbitMqOptions
+{
+    public string HostName { get; set; } = "localhost";
+    public int Port { get; set; } = 5672;
+    public string VirtualHost { get; set; } = "/";
+    public string UserName { get; set; } = "guest";
+    public string Password { get; set; } = "guest";
+
+    public string ExchangeName { get; set; } = "serviceorder-service";
+    public string ExchangeType { get; set; } = "direct";
+
+    public ushort PrefetchCount { get; set; } = 10;
+    public bool Durable { get; set; } = true;
+}

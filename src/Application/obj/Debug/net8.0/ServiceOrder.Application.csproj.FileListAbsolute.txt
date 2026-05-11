@@ -1,0 +1,15 @@
+C:\Users\lupsilva\source\repos\DDD\src\Application\bin\Debug\net8.0\ServiceOrder.Application.deps.json
+C:\Users\lupsilva\source\repos\DDD\src\Application\bin\Debug\net8.0\ServiceOrder.Application.dll
+C:\Users\lupsilva\source\repos\DDD\src\Application\bin\Debug\net8.0\ServiceOrder.Application.pdb
+C:\Users\lupsilva\source\repos\DDD\src\Application\bin\Debug\net8.0\ServiceOrder.Core.dll
+C:\Users\lupsilva\source\repos\DDD\src\Application\bin\Debug\net8.0\ServiceOrder.Core.pdb
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.csproj.AssemblyReference.cache
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.AssemblyInfoInputs.cache
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.AssemblyInfo.cs
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.csproj.CoreCompileInputs.cache
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceO.ABF71072.Up2Date
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.dll
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\refint\ServiceOrder.Application.dll
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ServiceOrder.Application.pdb
+C:\Users\lupsilva\source\repos\DDD\src\Application\obj\Debug\net8.0\ref\ServiceOrder.Application.dll

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\DDD.Notification1\\DDD.Notification1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DDD.ServiceOrder.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
