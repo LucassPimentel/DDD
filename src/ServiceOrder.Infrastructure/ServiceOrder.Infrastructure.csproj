@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>ServiceOrder.Infrastructure</RootNamespace>
+    <AssemblyName>ServiceOrder.Infrastructure</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="7.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiceOrder.Application\ServiceOrder.Application.csproj" />
+    <ProjectReference Include="..\ServiceOrder.Domain\ServiceOrder.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

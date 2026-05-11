@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OI0yVFfbfQk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lupsilva\\source\\repos\\DDD\\src\\ServiceOrder.Core\\ServiceOrder.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lupsilva\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\lupsilva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
